@@ -12,7 +12,7 @@
 <a href="https://twitter.com/abrobina_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrobina_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucas winicius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas winicius" height="30" width="40" /></a>
 <a href="https://instagram.com/sr_pumpkin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sr_pumpkin_" height="30" width="40" /></a>
-<a href="https://discord.gg/gHwhQTtQ87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gHwhQTtQ87" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/689253895809400844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gHwhQTtQ87" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
