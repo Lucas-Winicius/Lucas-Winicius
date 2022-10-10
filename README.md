@@ -5,7 +5,7 @@
 
 - 💬 Pergunte-me sobre **Python, JavaScript, HTML**
 
-- 📫 Como me contatar **lucasclucas7@gmail.com**
+- 📫 Como me contatar *lucasclucas7@gmail.com*
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
