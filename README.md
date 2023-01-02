@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-📚 | Atualmente estudando: JavaScript<br>🎃 | Sobre mim: Opa, me chamo Lucas mas pode me chamar de [ 'Luck', 'Abobra', 'Luke', 'Lu' ], E tenho 16 anos. Atualmente sou desenvolvedor Full-Stack.
+📚 | Atualmente estudando: JavaScript<br>🎃 | Sobre mim: Opa, me chamo Lucas mas pode me chamar de [ 'Luck', 'Abobra', 'Luke', 'Lu' ], E tenho 16 anos. Atualmente sou desenvolvedor Frontend.
 
 ## 🌐 Redes Sociais:
 
