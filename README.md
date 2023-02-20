@@ -24,6 +24,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Lucas-Winicius&icon=2&color=12)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/Lucas-Winicius/Lucas-Winicius/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
