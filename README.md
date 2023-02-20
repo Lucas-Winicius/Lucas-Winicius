@@ -11,3 +11,7 @@
 <div align="center">  
 <a href="https://www.instagram.com/sr_pumpkin_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
+
+<div align=“center”>
+<img src="https://github.com/Lucas-Winicius/Lucas-Winicius/blob/output/github-contribution-grid-snake.svg"></img>
+</div>
