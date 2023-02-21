@@ -56,3 +56,5 @@
 <div align=“center”>
 <img src="https://github.com/Lucas-Winicius/Lucas-Winicius/blob/output/github-contribution-grid-snake.svg"></img>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
