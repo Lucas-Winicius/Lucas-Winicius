@@ -5,9 +5,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Winicius&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucas-Winicius&theme=gotham)
-
 ## 🛠 Tech Stack:
 
 ### 💻 Frontend:
@@ -52,9 +49,5 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<div align=“center”>
-<img src="https://github.com/Lucas-Winicius/Lucas-Winicius/blob/output/github-contribution-grid-snake.svg"></img>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
